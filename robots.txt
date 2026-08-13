@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-lymx4m.date-me.pro/sitemap.xml
